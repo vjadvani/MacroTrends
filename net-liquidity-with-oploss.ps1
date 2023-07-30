@@ -1,4 +1,4 @@
-﻿
+# Original created by https://github.com/dharmatech. This file uses the original and adds operating lossses to net liquidity﻿
 Param($days = 365, [switch]$csv)
 
 function get-recent-tga ()
